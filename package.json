@@ -1,0 +1,22 @@
+{
+  "name": "alivekiwi.com",
+  "version": "1.0.0",
+  "private": true,
+  "description": "alivekiwi.com",
+  "author": "AliveKiwi",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.13.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
